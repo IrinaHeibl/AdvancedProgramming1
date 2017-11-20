@@ -6,6 +6,8 @@ public class Client {
 	//make conection
 	//generate XML from HL7
 	//send/retriev XML
+	
+	//Webservice
 
 
 		

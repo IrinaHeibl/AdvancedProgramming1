@@ -11,10 +11,11 @@ import java.net.Socket;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+//import javax.xml.ws.Endpoint;
+
 public class Server {
 
-	
-	
+		
 	private ServerSocket myServerSocket;
     private int port;
     
@@ -42,18 +43,16 @@ public class Server {
     public static void main(String args[] ) throws IOException {
     
     	System.out.print("Hello There");
-    	int port=1234;
+    	int port=8080;
     	try {
     		
-    	Server server= new Server(port);
+    	Server myserver= new Server(port);
     	
     	}
     	
     	finally {
     		
     	}
-    	
-    	
     	
     }
 
