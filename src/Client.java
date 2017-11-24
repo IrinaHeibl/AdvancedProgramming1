@@ -16,10 +16,12 @@ public class Client {
 	//send XML		
 	//generate HL7 from XML
 	
-	//FRAGEN für Montag:
+	//FRAGEN fÃ¼r Montag:
 	//Datenbank oder Folder?
 	//Autentifizierung/handshake
-	//verschlüssenlung--gehashtes passwort
+	//verschlÃ¼ssenlung--gehashtes passwort
 	//Sicherheitstoken
 	//HTML oder XML
+	
+	//huhuhuhuhu
 }
